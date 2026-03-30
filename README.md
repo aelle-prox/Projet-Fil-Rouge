@@ -1,4 +1,4 @@
-# 🧠 Projet Deep Learning — CNN & LSTM
+#  Projet Deep Learning — CNN & LSTM
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square&logo=python)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.13-orange?style=flat-square&logo=tensorflow)
