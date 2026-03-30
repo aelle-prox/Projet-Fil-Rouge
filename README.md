@@ -303,7 +303,7 @@ Entraînement LSTM
 | Partition | Lignes | Période |
 |-----------|--------|---------|
 | **Train** | 49 063 | 2009-01-01 → 2014-08-05 |
-| **Test** | 21 028|  → | 2014-08-05 2016-12-31 |
+| **Test** | 21 028| 2014-08-05  → 2016-12-31 |
 
 > **Règle absolue** : le split est toujours chronologique, jamais aléatoire.
 > Mélanger les données avant le split = data leakage = métriques faussées.
